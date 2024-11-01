@@ -1,0 +1,96 @@
+/*Colors and fonts */
+body {
+	background-color: floralwhite; 
+	color: darkred;
+	font-family: font-family: "Playwrite GB S", cursive;
+}
+
+h1 {
+	color: hotpink;
+	font-family: helvetica;
+	font-weight: 600;
+	letter-spacing: 2px;
+	font-size: 50px;
+	text-transform: uppercase;
+} 
+ 
+h2 {
+	color: darkred;
+	font-family: fantasy;                  
+	font-weight : 200;
+	letter-spacing: 2px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+p {
+	color : green;	
+}
+
+.div｛
+border: 2px•solid black;
+margin: • 10px;
+background: white;
+}
+
+.card-white {
+	text-align : center ;
+}  
+
+.img-circle {
+	border-radius: 50% ;  
+}
+
+
+.html {
+	width : 700px;
+	margin : 10px auto;
+}
+
+
+@media (max-width: 500px) {
+    .container {
+        width: 400px;
+    }
+}
+@media (max-width: 700px) {
+    .container {
+        width: 400px;
+    }
+}
+
+
+
+.btn-blue {
+		background-color: green ;
+		color : white;
+		padding : 5px 5px; 
+}
+
+.btn-blue:hover {
+	background-color : lightpink;
+	color : white;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left : 0px;
+}
+.list-inline li {
+	display : inline;
+	padding : 10px;	
+}
+
+.list-inline i {
+	font-size : 50px;
+	color : green;
+}
+
+.list-inline i:hover {
+	font-size: 50px;
+	color: lightpink;
+}  
+
+ #introduction p {
+ 	margin-bottom: 40px;
+ }
